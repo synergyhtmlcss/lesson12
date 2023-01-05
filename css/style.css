@@ -1,0 +1,24 @@
+h2 + p {
+    background: rgb(212, 249, 0);
+}
+
+h2:hover {
+    color: blue;
+}
+
+a:visited {
+    color: rgb(81, 255, 0);
+}
+
+.zayavka label, select, input, textarea {
+    display: block;
+}
+.zayavka input, textarea, select, fieldset{
+    margin-bottom: 15px;
+}
+fieldset input {
+    display: inline-block;
+}
+.logic-block {
+    padding: 100px 0;
+}
